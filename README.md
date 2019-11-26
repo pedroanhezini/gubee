@@ -1,1 +1,1 @@
-# Projeto usando Spring/Angular Listagem com filtros
+# Projeto usando Spring/Angular Lista com filtros
